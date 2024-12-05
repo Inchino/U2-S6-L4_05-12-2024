@@ -26,4 +26,32 @@
   font-weight: 500;
 }
 
+.bannerImg {
+  border-radius: 100%;
+  background-color: #FFEEDA;
+  padding: 1vw;
+}
+
+.logoCard, .book {
+  width: 1.2vw;
+}
+
+.star {
+  width: 0.9vw;
+}
+
+#ratio {
+  font-weight: 600;
+  color: #FFAA46;
+  vertical-align: middle;
+}
+
+.ratioNum {
+  vertical-align: middle;
+}
+
+.book {
+  opacity: 30%;
+}
+
 /*# sourceMappingURL=style.css.map */
