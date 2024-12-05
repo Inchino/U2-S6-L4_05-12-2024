@@ -1,0 +1,18 @@
+{
+  "name": "u2-s6-l4_05-12-2024",
+  "version": "1.0.0",
+  "description": "Bootstrap + SASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "U2-S6-L4_05-12-2024"
+  },
+  "author": "Alessandro Incalza",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.82.0"
+  }
+}
