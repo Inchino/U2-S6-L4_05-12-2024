@@ -2,4 +2,28 @@
   background-color: #754FFE;
 }
 
+#title {
+  align-items: center;
+  justify-content: center;
+}
+
+#title h1 {
+  color: white;
+}
+
+#title p {
+  color: #B6A2FE;
+}
+
+#btn1 {
+  background-color: #19CB98;
+  font-weight: 500;
+}
+
+#btn2 {
+  background-color: white;
+  color: black;
+  font-weight: 500;
+}
+
 /*# sourceMappingURL=style.css.map */
